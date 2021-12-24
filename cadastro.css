@@ -1,0 +1,107 @@
+.container {
+    max-width: 530px;    /*largura máxima*/
+    min-height: 500px;
+    margin: 50px auto;
+    background: rgb(16, 126, 134);    
+    padding: 50px;      /*preenchimento*/
+    border-radius: 10px;      /*raio de fronteira*/
+}
+
+.titulo {
+    color: white;
+    font-size: 2em;
+    margin-left: 140px;
+}
+
+.label1 {
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.nome {
+    padding: 5px;
+    margin-left: 10px;
+    min-width: 500px;
+    margin-bottom: 5px;
+}
+
+.label2 {
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.sobrenome {
+    padding: 5px;
+    margin-left: 10px;
+    min-width: 500px;
+    margin-bottom: 5px;
+}
+
+.label3 {
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.cpf {
+    padding: 5px;
+    margin-left: 10px;
+    min-width: 500px;
+    margin-bottom: 5px;
+}
+
+.label4 {
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.usuario {
+    padding: 5px;
+    margin-left: 10px;
+    min-width: 500px;
+    margin-bottom: 5px;
+}
+
+.label5 {
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.senha {
+    padding: 5px;
+    margin-left: 10px;
+    min-width: 500px;
+    margin-bottom: 5px;
+}
+
+.label6 {
+    font-size: x-large;
+    margin-left: 10px;
+}
+
+.repetir-senha {
+    padding: 5px;
+    margin-left: 10px;
+    min-width: 500px;
+    margin-bottom: 5px;
+}
+
+.button {
+    margin-top: 20px;
+    margin-left: 200px;
+    min-width: 100px;
+    padding: 10px;
+}
+
+.button:hover {
+    color: white;
+    background: rgb(1, 0, 5);
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.error-text {
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+}
